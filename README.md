@@ -18,6 +18,7 @@ Esse recorte é importante porque áreas não florestais tendem a ser mais susce
 - Redução de aproximadamente 29% no período analisado
 
 📊 Visual do dashboard
+![Dashboard](dashboard-desmatamento-amazonia-deter.png)
 
 🛠️ Ferramentas utilizadas
 Power BI / DAX / Excel / Dados do INPE (DETER – TerraBrasilis)
